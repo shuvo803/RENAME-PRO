@@ -22,6 +22,6 @@ BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/cca849a2f63053fa3f62
 
 # if you need to add verify system then dm me on telegram
 
-SHORTNER_URL = os.environ.get("SHORTNER_URL", "")
-SHORTNER_API = os.environ.get("SHORTNER_API", "")
-TOKEN_TIMEOUT = os.environ.get("TOKEN_TIMEOUT", "")
+SHORTNER_URL = os.environ.get("SHORTNER_URL", "modijiurl.com")
+SHORTNER_API = os.environ.get("SHORTNER_API", "8c082f290e876fc34f1ab066c4775c44a1dedead")
+TOKEN_TIMEOUT = os.environ.get("TOKEN_TIMEOUT", "12")
