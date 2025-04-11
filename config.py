@@ -2,18 +2,18 @@ import os, re
 
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-OWNER = int(os.environ.get("OWNER", ""))
-BOT_USERNAME = os.environ.get('BOT_USERNAME', "")
+API_ID = int(os.environ.get("API_ID", "23864777"))
+API_HASH = os.environ.get("API_HASH", "1ad9abca4b87cee505e4ed3b1a811665")
+OWNER = int(os.environ.get("OWNER", "6509218702"))
+BOT_USERNAME = os.environ.get('BOT_USERNAME', "TS_4gbRename_bot")
 
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "HxBots")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002031041556"))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002277231245")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002442180033)
 
-DB_URL = os.environ.get("DB_URL", "")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://STRenameBot:STRenameBot@cluster0.p7bubb0.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "renamebot-premium")
 
-STRING = os.environ.get("STRING", "")
+STRING = os.environ.get("STRING", "BQFsJckAez_Nzdm9tljjuRWu5FQJKexs1XpZ742oGh-OA65Nps5c1cGfHN1dAZmsseClyvC7ZPYp2J9I3KsxbcepQVxxfm_v9vJS5JsvaXJxCOq5up9TcCl7OOpl5kLB_mw_OGsFwv2RbnAX5QjTOuII3j2ZVvyEcJz1Hmo7Tzi95Dtvy-BnrFdG-eEee6FTiiUztiPXb2emaIeCZmo7y8zThNroi-hQpQ4G09ABDOLP0osaf0fu8ThiRbBLVhXtZ-keJklSLqTRZNw8AQ2IOFVjAP2jXLj2qKUIgGyj7mMJ7mk5WKKlM6qnY_KMf-7yPYPzti5ndBclV9TIzfZeGm4zlamOXgAAAAGD-suOAA")
 BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/cca849a2f63053fa3f622.jpg")
 
 
