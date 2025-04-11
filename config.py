@@ -7,7 +7,7 @@ API_HASH = os.environ.get("API_HASH", "1ad9abca4b87cee505e4ed3b1a811665")
 OWNER = int(os.environ.get("OWNER", "6509218702"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "TS_4gbRename_bot")
 
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002277231245")
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "S_MovieChannel")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002442180033)
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://STRenameBot:STRenameBot@cluster0.p7bubb0.mongodb.net/?retryWrites=true&w=majority")
