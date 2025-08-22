@@ -7,7 +7,7 @@ API_HASH = os.environ.get("API_HASH", "1ad9abca4b87cee505e4ed3b1a811665")
 OWNER = int(os.environ.get("OWNER", "6509218702"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "Rename_S_Bot")
 
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "S_MovieChannel")
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "Logch5555")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002342857145)
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://shuvokuku:shuvokuku@cluster0.2mp65mn.mongodb.net/?retryWrites=true&w=majority")
