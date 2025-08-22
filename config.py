@@ -10,7 +10,7 @@ BOT_USERNAME = os.environ.get('BOT_USERNAME', "Rename_S_Bot")
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "Logch5555")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002342857145)
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://shuvokuku:shuvokuku@cluster0.2mp65mn.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://STRenameBot:STRenameBot@cluster0.p7bubb0.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "renamebot-premium")
 
 STRING = os.environ.get("STRING", "ShuvoBot")
